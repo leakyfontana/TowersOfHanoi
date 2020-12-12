@@ -17,7 +17,7 @@ import CS2114.WindowSide;
  * of the project
  * 
  * @author Xander Dyer
- * @version 2020.03.25
+ * @version 2020.07.31
  *
  */
 public class PuzzleWindow implements Observer 

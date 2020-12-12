@@ -5,8 +5,8 @@ package towerofhanoi;
 
 /**
  * Contains main method that runs the project
- * @author Xander Dyer (scdrake19)
- * @version 2020.03.25
+ * @author Xander Dyer 
+ * @version 2020.07.31
  *
  */
 public class ProjectRunner 
